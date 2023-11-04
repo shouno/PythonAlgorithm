@@ -4,6 +4,9 @@
 *.png
 *.mp4
 
+#
+Misc/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
